@@ -7,18 +7,18 @@ This folder contains the **public-facing frontend** of the application, built wi
 ## 📁 Folder Structure
 
 The `website/` directory is organized as follows:
-website/ 
-├── public/ 
-├── src/ 
-    ├── components/  
-    ├── UI/ 
-    ├── config/ 
-    ├── hooks/ 
-    ├── pages/ 
-    ├── routes/ 
-    ├── sources/ 
-    ├── store/ 
-    ├── utils/
+- website/ 
+- ├── public/ 
+- ├── src/ 
+  - ├── components/  
+  - ├── UI/ 
+  - ├── config/ 
+  - ├── hooks/ 
+  - ├── pages/ 
+  - ├── routes/ 
+  - ├── sources/ 
+  - ├── store/ 
+  - ├── utils/
 
 
 ### 🔍 Folder Descriptions
